@@ -1,0 +1,28 @@
+{
+	"cursor": "/Users/latona2/bitbucket/sap-api-integrations-reservation-document-reads/SAP_API_Caller/caller.go#L60",
+	"function": "sap-api-integrations-reservation-document-reads/SAP_API_Caller.(*SAPAPICaller).Header",
+	"level": "INFO",
+	"message": [
+		{
+			"Reservation": "1",
+			"OrderID": "",
+			"GoodsMovementType": "201",
+			"CostCenter": "100000",
+			"GoodsRecipientName": "Test Accept",
+			"ReservationDate": "2022-09-16",
+			"Customer": "",
+			"WBSElement": "",
+			"ControllingArea": "0001",
+			"SalesOrder": "",
+			"SalesOrderItem": "0",
+			"SalesOrderScheduleLine": "0",
+			"AssetNumber": "",
+			"AssetSubNumber": "",
+			"NetworkNumberForAcctAssgmt": "",
+			"IssuingOrReceivingPlant": "",
+			"IssuingOrReceivingStorageLoc": "",
+			"to_ReservationDocumentItem": "http://100.21.57.120:8080/sap/opu/odata/sap/API_RESERVATION_DOCUMENT_SRV/A_ReservationDocumentHeader('1')/to_ReservationDocumentItem"
+		}
+	],
+	"time": "2022-09-16T23:52:16+09:00"
+}

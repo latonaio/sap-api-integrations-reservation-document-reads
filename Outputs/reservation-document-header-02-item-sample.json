@@ -1,0 +1,42 @@
+{
+	"cursor": "/Users/latona2/bitbucket/sap-api-integrations-reservation-document-reads/SAP_API_Caller/caller.go#L67",
+	"function": "sap-api-integrations-reservation-document-reads/SAP_API_Caller.(*SAPAPICaller).Header",
+	"level": "INFO",
+	"message": [
+		{
+			"Reservation": "1",
+			"ReservationItem": "1",
+			"RecordType": "",
+			"Product": "21",
+			"RequirementType": "MR",
+			"MatlCompRequirementDate": "2022-09-16",
+			"Plant": "0001",
+			"ManufacturingOrderOperation": "",
+			"GoodsMovementIsAllowed": true,
+			"StorageLocation": "0001",
+			"Batch": "",
+			"DebitCreditCode": "H",
+			"BaseUnit": "PC",
+			"GLAccount": "892000",
+			"GoodsMovementType": "201",
+			"EntryUnit": "PC",
+			"QuantityIsFixed": false,
+			"CompanyCodeCurrency": "EUR",
+			"IssuingOrReceivingPlant": "",
+			"IssuingOrReceivingStorageLoc": "",
+			"PurchasingDocument": "",
+			"PurchasingDocumentItem": "0",
+			"Supplier": "",
+			"ResvnItmRequiredQtyInBaseUnit": "1",
+			"ReservationItemIsFinallyIssued": false,
+			"ReservationItmIsMarkedForDeltn": false,
+			"ResvnItmRequiredQtyInEntryUnit": "1",
+			"ResvnItmWithdrawnQtyInBaseUnit": "0",
+			"ResvnItmWithdrawnAmtInCCCrcy": "0.00",
+			"GoodsRecipientName": "Test Accept",
+			"UnloadingPointName": "",
+			"ReservationItemText": ""
+		}
+	],
+	"time": "2022-09-16T23:52:17+09:00"
+}
